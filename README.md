@@ -1,7 +1,7 @@
 # LRRC8A study — analysis code
 
 This repository contains the custom R scripts used for the human genetic, epigenetic,
-transcriptomic, and visualization analyses supporting the LRRC8A study submitted to *Science*.
+transcriptomic, and visualization analyses supporting the study ‘Disrupted neuronal volume homeostasis transforms electrical dysfunction into structural pathology.
 
 ## Scope
 
